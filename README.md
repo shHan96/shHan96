@@ -1,6 +1,6 @@
 # 👨‍💻 HAN SANG HUN
 
-I want to become System Developer who specializes in C/C++ programming
+**I want to become System Developer who specializes in C/C++ programming**
 
 
 ## 💻 Programming Languages
@@ -16,6 +16,10 @@ I want to become System Developer who specializes in C/C++ programming
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+### Build Systems & Project Configuration
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### Platforms & Development Boards
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
