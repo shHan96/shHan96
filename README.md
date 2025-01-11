@@ -23,5 +23,9 @@ I want to become System Developer who specializes in C/C++ programming
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+### Version Control & Project Management
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 ## 🏆 Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vb0o0dv)](https://solved.ac/YOUR_BOJ_ID)
